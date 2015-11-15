@@ -2,13 +2,13 @@
 
 Dankcoin.com, for rare pepes everywhere.
 
-![DogeCoin](http://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+![Dankcoin](http://i.imgur.com/mQzffrB.png)
 
 ## What is this?
-It's the Dogecoin.com homepage. Made so everyone, even the nontechnical, can use Dogecoin.
-Designed to retain the spirit of Dogecoin, whilst appealing to the more serious with its modern, simple design.
+It's the Dankcoin.com homepage. Made so everyone, even the nontechnical, can use Dankcoin.
+Designed to retain the spirit of Dankcoin, whilst appealing to the more serious with its modern, simple design.
 
-Dogecoin.com is completely responsive, it'll look good on your smartphone, tablet, desktop, and more.
+Dankcoin.com is completely responsive, it'll look good on your smartphone, tablet, desktop, and more.
 It is completely HTML5 W3C Validated, which means it complies with the standards set by W3C.
 
 ## Technical Details Pls.
@@ -28,5 +28,5 @@ We created some guides just for you:
 | [Windows Guide][G1] | [Linux Guide][G2] | *OSX Guide (Coming soon)* |
 |:-----------------:|:-------------------:|:-------------------------:|
 
-[G1]: https://github.com/dogecoin/dogecoin.com/blob/gh-pages/getting-started/contribute_windows.md
-[G2]: https://github.com/dogecoin/dogecoin.com/blob/gh-pages/getting-started/contribute_linux.md
+[G1]: https://github.com/dankcoin/danksite/blob/gh-pages/getting-started/contribute_windows.md
+[G2]: https://github.com/dankcoin/danksite/blob/gh-pages/getting-started/contribute_linux.md
