@@ -1,14 +1,14 @@
 # Dankcoin.org
 
-Dankcoin.com, for rare pepes everywhere.
+Dankcoin.org, for rare pepes everywhere.
 
 ![Dankcoin](http://i.imgur.com/mQzffrB.png)
 
 ## What is this?
-It's the Dankcoin.com homepage. Made so everyone, even the nontechnical, can use Dankcoin.
+It's the Dankcoin.org homepage. Made so everyone, even the nontechnical, can use Dankcoin.
 Designed to retain the spirit of Dankcoin, whilst appealing to the more serious with its modern, simple design.
 
-Dankcoin.com is completely responsive, it'll look good on your smartphone, tablet, desktop, and more.
+Dankcoin.org is completely responsive, it'll look good on your smartphone, tablet, desktop, and more.
 It is completely HTML5 W3C Validated, which means it complies with the standards set by W3C.
 
 ## Technical Details Pls.
